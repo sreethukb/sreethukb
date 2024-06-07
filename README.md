@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sreethukb
-- 🌱 I’m currently learning programming languages C, C++ and Python. I'm also interested in learning Web Development.
-- 📫 How to reach me: LinkedIn- www.linkedin.com/in/sreethu-k-binu-75856222b HackerRank- https://www.hackerrank.com/sreethukb
+- 🌱 I’m interested in Frontend Development (HTML, CSS, Javascript, React.JS)
+- Languages - Python, C++, MySQL
+- 📫 How to reach me: LinkedIn- www.linkedin.com/in/sreethu-k-binu-75856222b Leetcode - https://leetcode.com/u/sreethu7856/
 
 <!---
 sreethukb/sreethukb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
