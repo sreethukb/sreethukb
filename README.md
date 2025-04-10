@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @sreethukb
-- 🌱 I’m interested in Frontend Development (HTML, CSS, Javascript, React.JS)
+- 👋 Hi, I’m Sreethu!
+- 🌱 I’m interested in Development and Data Analysis.
 - Languages - Python, C++, MySQL
-- 📫 How to reach me: LinkedIn- www.linkedin.com/in/sreethu-k-binu-75856222b Leetcode - https://leetcode.com/u/sreethu7856/
+- 📫 How to reach me: LinkedIn- www.linkedin.com/in/sreethu-k-binu-75856222b
+  Leetcode - https://leetcode.com/u/sreethu7856/
 
 <!---
 sreethukb/sreethukb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
